@@ -5,3 +5,5 @@ second after merge
 third after merge.
 fourth line added
 fifth line added
+sixth line added.
+
