@@ -2,3 +2,4 @@ hello there
 how are you
 I am fine how about you>
 second after merge
+third after merge.
